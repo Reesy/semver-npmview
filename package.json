@@ -1,6 +1,6 @@
 {
   "name": "semver-npmview",
-  "version": "0.1.0-alpha.1",
+  "version": "0.3.0",
   "description": "semver-npmview is a wrapper around npm view which will allow extra functionality, such as showing the latest pre-release versions of a particular package.",
   "main": "index.js",
   "scripts": {
